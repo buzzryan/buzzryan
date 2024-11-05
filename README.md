@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm a backend & frontend engineer 👷
+I'm a backend engineer 👷
 
 - Go Language
 - Javascript / Typescript
